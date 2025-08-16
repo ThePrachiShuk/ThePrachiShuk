@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, C++, C, Java, SQL  
+- **Languages:** Python, C++, SQL  
 - **Libraries & Frameworks:** PyTorch, TensorFlow, Scikit-Learn, NumPy, Pandas, Matplotlib, Manim  
 - **Tools:** Git, Linux, Jupyter, VS Code, Docker (learning)  
 - **Special Interests:** ML Research, Data Structures & Algorithms, Scientific Computing, Graph Theory  
