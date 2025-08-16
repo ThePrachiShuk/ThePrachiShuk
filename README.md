@@ -51,13 +51,14 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)
 
 ---
+-->
 
 ### ✨ Fun Facts
 - I enjoy **visualizing science & math with Manim/Matplotlib**  
 - Big fan of **3Blue1Brown-style intuitive learning**  
 - Music is my coding buddy (🎶 The 1975, LANY, etc.)  
-- Long-term goal: **Research + AI @ Google DeepMind**  
-
+- Long-term goal: **Research + AI @ Google DeepMind**
+<!--
 ---
 
 ### 📫 Let’s Connect
