@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋
 
 <!--
 **ThePrachiShuk/ThePrachiShuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-<!--
+
 # 👋 Hi, I’m Prachetas Shukla
 
 💡 Passionate about **AI, Machine Learning, and Mathematics**  
@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, C++, SQL  
-- **Libraries & Frameworks:** PyTorch, TensorFlow, Scikit-Learn, NumPy, Pandas, Matplotlib, Manim  
-- **Tools:** Git, Linux, Jupyter, VS Code, Docker (learning)  
-- **Special Interests:** ML Research, Data Structures & Algorithms, Scientific Computing, Graph Theory  
+- **Libraries & Frameworks:** <!--PyTorch, TensorFlow,--> Scikit-Learn, NumPy, Pandas, Matplotlib, Manim  
+- **Tools:** Git,<!-- Linux,--> Jupyter, VS Code, Docker (learning)  
+- **Special Interests:** ML Research, <!--Data Structures & Algorithms,--> Scientific Computing, Graph Theory  
 
 ---
 <!--
@@ -53,11 +53,10 @@ Here are some ideas to get you started:
 ---
 -->
 
-<!--
 ### ✨ Fun Facts
-<!--- I enjoy **visualizing science & math with Manim/Matplotlib**  
-<!--- Big fan of **3Blue1Brown-style intuitive learning**  -->
-<!--
+  I enjoy **visualizing science & math with Manim/Matplotlib**  
+  Big fan of **3Blue1Brown-style intuitive learning**  -->
+
 - Music is my coding buddy (🎶 The 1975, LANY, etc.)  
 - Long-term goal: **Research + AI @ Google DeepMind**
 <!--
