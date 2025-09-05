@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 # 👋 Hi, I’m Prachetas Shukla
 
 💡 Passionate about **AI, Machine Learning, and Mathematics**  
-🚀 Currently exploring **Deep Learning, Generative AI, and Competitive Programming**
+🚀 Currently exploring **Deep Learning, Web Development, and Competitive Programming**
 
 ---
 
