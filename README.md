@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ### ✨ Fun Facts
   I enjoy **visualizing science & math with Manim/Matplotlib**  
-  Big fan of **3Blue1Brown-style intuitive learning**  -->
+  Big fan of **3Blue1Brown-style intuitive learning**
 
 - Music is my coding buddy (🎶 The 1975, LANY, etc.)  
 - Long-term goal: **Research + AI @ Google DeepMind**
