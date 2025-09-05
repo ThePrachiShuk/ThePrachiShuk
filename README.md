@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-
+<!--
 # 👋 Hi, I’m Prachetas Shukla
 
 💡 Passionate about **AI, Machine Learning, and Mathematics**  
@@ -53,9 +53,11 @@ Here are some ideas to get you started:
 ---
 -->
 
+<!--
 ### ✨ Fun Facts
 <!--- I enjoy **visualizing science & math with Manim/Matplotlib**  
 <!--- Big fan of **3Blue1Brown-style intuitive learning**  -->
+<!--
 - Music is my coding buddy (🎶 The 1975, LANY, etc.)  
 - Long-term goal: **Research + AI @ Google DeepMind**
 <!--
@@ -70,5 +72,4 @@ Here are some ideas to get you started:
 ---
 
 👉 Feel free to explore my repositories and collaborate on exciting projects! 🚀 -->
-
 
