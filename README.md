@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Hi, I’m Prachetas Shukla
+# 👋 Hi, I’m Prachetas...
 
 💡 Passionate about **AI, Machine Learning, and Mathematics**  
 🚀 Currently exploring **Deep Learning, Full Stack Development, and Competitive Programming**
